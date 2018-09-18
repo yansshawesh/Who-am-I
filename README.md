@@ -11,14 +11,16 @@ My Repository
 - [] Work on Layout
 
  ## Culture
- -[] language
--[] Cultural food
--[] Holidays
--[] Religion
+ - [] language
+- [] Cultural food
+- [] Holidays
+- [] Religion
 
 ## Hobbies
--[] sports
--[] movies
--[] Games
--[] Friends
--[] Exercise
+- [] sports
+- [] movies
+- [] Games
+- [] Friends
+- [] Exercise
+
+## 
