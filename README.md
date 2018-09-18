@@ -2,6 +2,7 @@
 My Repository
 
 ## To Do List
+
 - [X]Make Repository
 - [X] Create index.html
 - [X] added basic Boilerplate
@@ -11,16 +12,30 @@ My Repository
 - [] Work on Layout
 
  ## Culture
+
  - [] language
 - [] Cultural food
 - [] Holidays
 - [] Religion
-
+- [] Flag
 ## Hobbies
+
 - [] sports
 - [] movies
 - [] Games
 - [] Friends
 - [] Exercise
+- [] clothes
+## Experience
 
-## 
+- [] Teams
+- [] Places visited/Places lived
+- [] Family
+
+## Personality
+
+- [] Social Media
+- [] sports
+- [] Family
+- [] Religion
+- [] Hard worker
