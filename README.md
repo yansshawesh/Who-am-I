@@ -1,14 +1,13 @@
 # Who-am-I
 My Repository
 
-##To Do List
+## To Do List
 - [X]Make Repository
 - [X] Create index.html
 - [X] added basic Boilerplate
--Case Study To Do List
-My First objective is...
-[]
-[Work on Layout
+- Case Study To Do List
+- My First objective is...
 
-##Culture
-]
+- [] Work on Layout
+
+## Culture
