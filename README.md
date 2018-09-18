@@ -2,9 +2,13 @@
 My Repository
 
 ##To Do List
-- []Make Repository
-- [] Create index.html
-- [] added basic Boilerplate
+- [X]Make Repository
+- [X] Create index.html
+- [X] added basic Boilerplate
 -Case Study To Do List
 My First objective is...
 []
+[Work on Layout
+
+##Culture
+]
