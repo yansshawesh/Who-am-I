@@ -29,7 +29,7 @@ My Repository
 - [] Foods
 ## Experience
 
-- []club Teams
+- []Club Teams
 - [] Places visited/Places lived
 - [] Family
 
