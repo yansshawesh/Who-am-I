@@ -10,4 +10,15 @@ My Repository
 
 - [] Work on Layout
 
-## Culture
+ ## Culture
+ -[] language
+-[] Cultural food
+-[] Holidays
+-[] Religion
+
+## Hobbies
+-[] sports
+-[] movies
+-[] Games
+-[] Friends
+-[] Exercise
